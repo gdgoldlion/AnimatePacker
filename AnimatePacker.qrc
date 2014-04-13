@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/animation.png</file>
+        <file>image/choose.png</file>
+        <file>image/deleteObject.png</file>
+        <file>image/down.png</file>
+        <file>image/newObject.png</file>
+        <file>image/open.png</file>
+        <file>image/play.png</file>
+        <file>image/save.png</file>
+        <file>image/saveAs.png</file>
+        <file>image/stop.png</file>
+        <file>image/up.png</file>
+        <file>image/zoomIn.png</file>
+        <file>image/zoomOut.png</file>
+        <file>image/icon.png</file>
+        <file>image/palette.png</file>
+        <file>image/icon.icns</file>
+        <file>image/icon.ico</file>
+        <file>image/copy.png</file>
+        <file>image/iconMode.png</file>
+        <file>image/listMode.png</file>
+    </qresource>
+</RCC>
